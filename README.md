@@ -1,3 +1,1 @@
 # SampleDashboard
-
-Integrated Jenkins & Sonarqube
